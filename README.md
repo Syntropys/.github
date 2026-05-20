@@ -12,5 +12,3 @@ It contains shared resources such as:
 - Contribution guidelines  
 - Issue and pull request templates  
 - General standards used across repositories  
-
-This repository is maintained for portfolio and academic documentation only.
